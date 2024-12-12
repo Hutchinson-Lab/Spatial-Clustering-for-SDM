@@ -1,0 +1,32 @@
+"Species","Latin","Abbreviation","Prevalence","Habitat","Generalist.Specialist","Home.Range","territory.size","Prevalence.Level","Prevalence.Numeric"
+"Cooper’s Hawk","Accipiter cooperii","COHA","0.36%","e","s","l",1000,"l",0.36
+"Northern Pygmy-Owl","Glaucidium gnoma","NOOW","0.60%","f","s","l",50,"l",0.6
+"Mountain Quail","Oreortyx pictus","MOQU","1.04%","e","s","l",1000,"l",1.04
+"Bald Eagle","Haliaeetus leucocephalus","BAEA","1.36%","e","g","l",2500,"l",1.36
+"Hammond’s Flycatcher","Empidonax hammondii","HAFL","1.72%","f","s","s",1,"l",1.72
+"Yellow Warbler","Setophaga petechia","YEWA","1.84%","e","s","s",0.5,"l",1.84
+"Bushtit","Psaltriparus minimus","BUTI","2.20%","e","g","s",1,"l",2.2
+"Hairy Woodpecker","Dryobates villosus","HAWO","2.64%","f","s","m",2.5,"l",2.64
+"Pileated Woodpecker","Dryocopus pileatus","PIWO","2.64%","f","g","l",250,"l",2.64
+"Olive-sided Flycatcher","Contopus cooperi","OLFL","2.80%","f","s","l",40,"l",2.8
+"Red-tailed Hawk","Buteo jamaicensis","REHA","2.84%","e","g","l",2300,"m",2.84
+"Brown Creeper","Certhia americana","BRCR","4.04%","f","s","m",5,"m",4.04
+"Yellow-breasted Chat","Icteria virens","YEBCHA","4.57%","e","s","s",2,"m",4.57
+"MacGillivray’s Warbler","Geothlypis tolmiei","MAWA","6.09%","e","s","s",2,"m",6.09
+"Pacific Wren","Troglodytes pacificus","PAWR","7.17%","f","s","m",2.5,"m",7.17
+"Wrentit","Chamaea fasciata","WRENTI","9.01%","e","s","s",2,"m",9.01
+"Northern Flicker","Colaptes auratus","NOFL","9.29%","e","g","m",100,"m",9.29
+"Hermit Warbler","Setophaga occidentalis","HEWA","10.13%","f","s","s",0.5,"m",10.13
+"California Scrub-Jay","Aphelocoma californica","CASC","11.25%","e","g","m",4,"m",11.25
+"Chestnut-backed Chickadee","Poecile rufescens","CHBCHI","13.14%","f","s","s",1,"m",13.14
+"Pacific-slope Flycatcher","Empidonax difficilis","PAFL","14.42%","f","s","m",2.5,"h",14.42
+"Western Tanager","Piranga ludoviciana","WETA","15.14%","f","g","m",5,"h",15.14
+"Warbling Vireo","Vireo gilvus","WAVI","15.54%","f","s","s",1.5,"h",15.54
+"Wilson’s Warbler","Cardellina pusilla","WIWA","16.18%","f","g","s",1,"h",16.18
+"Western Wood-Pewee","Contopus sordidulus","WEPE","17.10%","f","g","s",2,"h",17.1
+"Spotted Towhee","Pipilo maculatus","SPTO","18.94%","e","g","s",2,"h",18.94
+"Black-headed Grosbeak","Pheucticus melanocephalus","BKHGRO","25.67%","f","g","m",3,"h",25.67
+"Swainson’s Thrush","Catharus ustulatus","SWTH","27.51%","f","g","s",2,"h",27.51
+"American Robin","Turdus migratorius","AMRO","28.19%","e","g","s",1,"h",28.19
+"Song Sparrow","Melospiza melodia","SOSP","30.88%","e","g","s",0.5,"h",30.88
+"American Crow","Corvus brachyrhynchos","AMCR","33.04%","e","g","l",2500,"h",33.04
