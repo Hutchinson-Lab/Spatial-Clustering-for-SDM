@@ -38,16 +38,24 @@ Run the following command:
 Replace `species_names` in `run_species_experiments.R` to run experiments for specific species. Abbreviations of species names are in `checklist_data` (e.g, `NOFL` = Northern Flicker, `COHA` = Cooper's Hawk, etc.).
 
 
-
+@article{Ahmed_Roth_Hallman_Robinson_Hutchinson_2025, 
+title={Spatial Clustering of Citizen Science Data Improves Downstream Species Distribution Models}, volume={39}, url={https://ojs.aaai.org/index.php/AAAI/article/view/34993}, DOI={10.1609/aaai.v39i27.34993}, 
+number={27}, journal={Proceedings of the AAAI Conference on Artificial Intelligence}, author={Ahmed, Nahian and Roth, Mark and Hallman, Tyler A. and Robinson, W. Douglas and Hutchinson, Rebecca A.}, year={2025}, month={Apr.}, pages={27775-27783} }
 
 
 ## Citation
 
 ```
-@inproceedings{ahmed2025spatial,
+@inproceedings{Ahmed_Roth_Hallman_Robinson_Hutchinson_2025,
   title={Spatial Clustering of Citizen Science Data Improves Downstream Species Distribution Models},
   author={Ahmed, Nahian and Roth, Mark and Hallman, Tyler A and Robinson, W Douglas and Hutchinson, Rebecca A},
-  book title={Proceedings of the AAAI Conference on Artificial Intelligence},
-  year={2025}
+  journal={Proceedings of the AAAI Conference on Artificial Intelligence},
+  volume={39}, 
+  number={27},
+  pages={27775-27783},
+  url={https://ojs.aaai.org/index.php/AAAI/article/view/34993},
+  DOI={10.1609/aaai.v39i27.34993},
+  month={Apr.},
+  year={2025},
 }
 ````
