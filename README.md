@@ -40,16 +40,13 @@ Replace `species_names` in `run_species_experiments.R` to run experiments for sp
 ## Citation
 
 ```
-@inproceedings{Ahmed_Roth_Hallman_Robinson_Hutchinson_2025,
+@inproceedings{ahmed2025spatial,
   title={Spatial Clustering of Citizen Science Data Improves Downstream Species Distribution Models},
   author={Ahmed, Nahian and Roth, Mark and Hallman, Tyler A and Robinson, W Douglas and Hutchinson, Rebecca A},
-  journal={Proceedings of the AAAI Conference on Artificial Intelligence},
-  volume={39}, 
+  booktitle={Proceedings of the AAAI Conference on Artificial Intelligence},
+  volume={39},
   number={27},
-  pages={27775-27783},
-  url={https://ojs.aaai.org/index.php/AAAI/article/view/34993},
-  DOI={10.1609/aaai.v39i27.34993},
-  month={Apr.},
-  year={2025},
+  pages={27775--27783},
+  year={2025}
 }
 ````
